@@ -12,4 +12,4 @@ Libraries, Languages for the project
 1) The project uses extensive array of technologies, written in Java.</br>
 2) User interface is made using Swing API and AWT.</br>
 3) MySQL is used as a database to store user info and current account states.</br>
-4) Referenced Library such as mysql-connector-java-8.0.22.jar was used in the project to make connection with the database.</br>
+4) Referenced Library such as mysql-connector-java-8.0.22.jar was used in the project to make connection with the database.
